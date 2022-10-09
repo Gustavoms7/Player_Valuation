@@ -1,4 +1,4 @@
-# Projeto 2 de Ciência dos Dados 2022.1
+# Player Valuation
 
 ### Integrantes:  <br>
 Alexandre Rodrigues Santarossa <br>
